@@ -29,24 +29,8 @@ connectDB()
 
 
 
-// import express from "express";
-// const app = express();
 
-// (async ()=>{
-//   try {
-//    await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`)
-//    app.on("error",(err)=>{
-//     console.log("Error : ",err);
-//     // throw err;
-//    })
-
-
-//    app.listen(process.env.PORT,()=>{
-//     console.log("App is listening")
-//    })
-
-//   } catch(err) {
-//     console.error(err)
 //     // throw err;
 //   }
+
 // })()
